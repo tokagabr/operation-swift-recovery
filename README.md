@@ -129,11 +129,11 @@ operation-swift-recovery/
 
 | Name | Role |
 |---|---|
-| Saleh Hossam | Attack timeline & phase analysis |
-| Toka Gbr | Geography & ISP investigation |
-| Jana Mohamed | Anonymization & APT indicators |
+| Toka Gbr | Attack timeline & phase analysis |
+| Jana Mohamed | Geography & ISP investigation |
+| Toka Mohamed | Anonymization & APT indicators |
 | Nour Gomaa | Danger scoring & remediation plan |
-| Toka Mohamed | Service restoration & IP blocking |
+| Saleh Hossam | Service restoration & IP blocking |
 
 ---
 
